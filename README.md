@@ -1,6 +1,6 @@
 # 📚 Catatan Belajar JavaScript 
 
-Selamat datang di kumpulan catatan pribadi saya selama mempelajari JavaScript, mulai dari konsep dasar hingga pembuatan mini-project.
+Selamat datang di kumpulan catatan pribadi saya selama semester 6 dalam mempelajari JavaScript, mulai dari konsep dasar hingga pembuatan mini-project.
 
 Mata kuliah yang menggunakan materi JavaScript ini antara lain:  
 - 🌐 **Web Semantik**  
