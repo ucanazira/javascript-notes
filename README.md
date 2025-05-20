@@ -1,4 +1,4 @@
-# 📚 Catatan Belajar JavaScript ✨
+# 📚 Catatan Belajar JavaScript 
 
 Selamat datang di kumpulan catatan pribadi saya selama mempelajari JavaScript, mulai dari konsep dasar hingga pembuatan mini-project.
 
@@ -25,10 +25,3 @@ Mata kuliah yang menggunakan materi JavaScript ini antara lain:
 - 📝 [Tugas Mandiri](./tugas-mandiri)  
   Kumpulan tugas mandiri selama perkuliahan.
 
----
-
-Setiap bagian berisi file `.md` sebagai dokumentasi dan penjelasan konsep, serta file `.js` untuk contoh kode yang dapat langsung dijalankan dan dipelajari.
-
----
-
-Terima kasih telah mengunjungi catatan ini. Semoga bermanfaat sebagai referensi belajar JavaScript yang terstruktur dan mudah dipahami! 🙏✨
